@@ -29,15 +29,15 @@ Pick your platform, download the ZIP, extract to the BIOS path.
 
 | Platform | BIOS files | Extract to | Download |
 |----------|-----------|-----------|----------|
-| Batocera | 361 | `/userdata/bios/` | [Download](../../releases/latest) |
+| Batocera | 368 | `/userdata/bios/` | [Download](../../releases/latest) |
 | BizHawk | 118 | `Firmware/` | [Download](../../releases/latest) |
 | EmuDeck | 161 | `Emulation/bios/` | [Download](../../releases/latest) |
-| Lakka | 448 | `system/` | [Download](../../releases/latest) |
+| Lakka | 530 | `system/` | [Download](../../releases/latest) |
 | Recalbox | 346 | `/recalbox/share/bios/` | [Download](../../releases/latest) |
-| RetroArch | 448 | `system/` | [Download](../../releases/latest) |
+| RetroArch | 530 | `system/` | [Download](../../releases/latest) |
 | RetroBat | 339 | `bios/` | [Download](../../releases/latest) |
 | RetroDECK | 2006 | `~/retrodeck/bios/` | [Download](../../releases/latest) |
-| RetroPie | 448 | `BIOS/` | [Download](../../releases/latest) |
+| RetroPie | 530 | `BIOS/` | [Download](../../releases/latest) |
 | RomM | 374 | `bios/{platform_slug}/` | [Download](../../releases/latest) |
 
 ## What's included
@@ -61,15 +61,15 @@ Full list with per-file details: **[https://abdess.github.io/retrobios/](https:/
 
 | Platform | Coverage | Verified | Untested | Missing |
 |----------|----------|----------|----------|---------|
-| Batocera | 361/361 (100.0%) | 361 | 0 | 0 |
+| Batocera | 366/368 (99.5%) | 365 | 1 | 2 |
 | BizHawk | 118/118 (100.0%) | 118 | 0 | 0 |
 | EmuDeck | 161/161 (100.0%) | 161 | 0 | 0 |
-| Lakka | 448/448 (100.0%) | 448 | 0 | 0 |
+| Lakka | 530/530 (100.0%) | 530 | 0 | 0 |
 | Recalbox | 346/346 (100.0%) | 346 | 0 | 0 |
-| RetroArch | 448/448 (100.0%) | 448 | 0 | 0 |
+| RetroArch | 530/530 (100.0%) | 530 | 0 | 0 |
 | RetroBat | 339/339 (100.0%) | 339 | 0 | 0 |
 | RetroDECK | 2006/2006 (100.0%) | 2006 | 0 | 0 |
-| RetroPie | 448/448 (100.0%) | 448 | 0 | 0 |
+| RetroPie | 530/530 (100.0%) | 530 | 0 | 0 |
 | RomM | 374/374 (100.0%) | 374 | 0 | 0 |
 
 ## Build your own pack
@@ -136,4 +136,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 This repository provides BIOS files for personal backup and archival purposes.
 
-*Auto-generated on 2026-04-03T12:59:52Z*
+*Auto-generated on 2026-07-13T10:22:18Z*
